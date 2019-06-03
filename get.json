@@ -1,1 +1,19 @@
-{"HomeBase":"HB 1.01","LockerGroup":"Mustertitel","Number":"1"}
+[{
+        "FirstName": "aaa",
+        "LastName": "bbb",
+        "Email": "ccc",
+        "Desk": "ddd",
+        "Mobile": "eee",
+        "Location": "fff",
+        "Address": "ggg"
+    },
+    {
+        "FirstName": "aaa",
+        "LastName": "bbb",
+        "Email": "ccc",
+        "Desk": "ddd",
+        "Mobile": "eee",
+        "Location": "fff",
+        "Address": "ggg"
+    }
+]
